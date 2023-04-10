@@ -4,6 +4,3 @@ table, table *{
     border-collapse: collapse;
 }
 
-th {
-    display: inline-block;
-}
