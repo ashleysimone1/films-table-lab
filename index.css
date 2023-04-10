@@ -6,7 +6,7 @@ table, table *{
     border: 1px solid black;
     border-collapse: collapse;
     font-family: sans-serif;
-    height: 75px;
+    height: 60px;
 }
 
 thead {
@@ -15,4 +15,8 @@ thead {
 
 .year{
     font-style: italic;
+}
+
+.first-column {
+    width: 125px;
 }
