@@ -1,6 +1,18 @@
-
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
 table, table *{
     border: 1px solid black;
     border-collapse: collapse;
+    font-family: sans-serif;
+    height: 75px;
 }
 
+thead {
+    background-color: #079dec;
+}
+
+.year{
+    font-style: italic;
+}
